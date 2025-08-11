@@ -1,4 +1,5 @@
-#DESCRIPTION
+# Description
+
 Built a responsive admin dashboard using React 19 and Material UI, with a modular component-based architecture.
 
 Integrated ECharts for real-time data visualization and FullCalendar for interactive scheduling.
