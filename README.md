@@ -1,3 +1,14 @@
+#DESCRIPTION
+Built a responsive admin dashboard using React 19 and Material UI, with a modular component-based architecture.
+
+Integrated ECharts for real-time data visualization and FullCalendar for interactive scheduling.
+
+Implemented Zustand for lightweight state management and Material React Table for advanced data handling.
+
+Enhanced UI with Emotion CSS-in-JS styling, React Modal, and drag-and-drop functionality via @hello-pangea/dnd.
+
+Tech Stack: React 19, Material UI, Emotion, Zustand, Moment.js, ECharts, Material React Table, FullCalendar, React Modal, Drag-and-Drop (Pangea DnD).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
